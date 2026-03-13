@@ -1,0 +1,5 @@
+{
+  "name": "Item Auto-Categorizer",
+  "description": "An AI-powered tool that uses Gemini and Google Search to automatically categorize product lists from Excel files with high precision and grounding.",
+  "requestFramePermissions": []
+}
